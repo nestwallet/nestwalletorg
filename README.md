@@ -5,8 +5,8 @@
 ## Team
 
 [Ricardo Andrade](https://#), *Project Manager*<br />
-[Man Filho](https://#), *Customers & Businesses Relationship*<br />
-[Danny Serena](https://#), *QA*<br />
+[Man Filho](https://#), *Relationship Manager*<br />
+[Danny Serena](https://#), *Software QA*<br />
 [Shyba](https://#), *Developer*<br />
 
 
