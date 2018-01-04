@@ -6,7 +6,7 @@
 
 [Ricardo Andrade](https://#), *Project Manager*<br />
 [Man Filho](https://#), *Relationship Manager*<br />
-[Danny Serena](https://#), *Software QA*<br />
+[Danielle Serena](https://#), *Software QA*<br />
 [Shyba](https://#), *Developer*<br />
 
 
