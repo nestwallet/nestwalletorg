@@ -1,6 +1,10 @@
 # Nest Wallet
 
-*Description soon...*
+*Soon...*
+
+## Features
+
+*Soon...*
 
 ## Team
 
