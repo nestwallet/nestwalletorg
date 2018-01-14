@@ -10,6 +10,6 @@
 
 [Ricardo Andrade](https://www.github.com/rsandrade), *Project*<br />
 [Man Filho](https://#), *Partnerships*<br />
-[Shyba](https://#), *Developer*<br />
-[Harisson Santos](https://#), *Designer*<br />
+[Shyba](https://#), *Development*<br />
+[Harisson Santos](https://#), *Design*<br />
 [Danielle Serena](https://#), *QA*<br />
