@@ -12,4 +12,3 @@
 [Man Filho](https://#), *Partnerships*<br />
 [Shyba](https://#), *Development*<br />
 [Harisson Santos](https://#), *Design*<br />
-[Danielle Serena](https://#), *QA*<br />
