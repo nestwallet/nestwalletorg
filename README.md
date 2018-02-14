@@ -15,3 +15,4 @@ Simple. Safe. Useful.
 [Man Filho](https://#), *Partnerships*<br />
 [Shyba](https://#), *Development*<br />
 [Harisson Santos](https://#), *Design*<br />
+[Osama Yawar](https://#), *Development*<br />
